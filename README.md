@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Java and JavaScript**
 - 💞️ I’m looking to collaborate on anything really&mdash;always open to learning and growing as a computer science student
 - 😄 Pronouns: **he/him**
-### 📫 Let's connect:
+### Let's connect:
 - School email: morrill.ty@northeastern.edu
 - LinkedIn: www.linkedin.com/in/tyler-morrill-089873298
 
