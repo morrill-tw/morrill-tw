@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tyler Morrill
 ### A Computer Science and Behavioral Neuroscience Student at Northeastern University
 - 👀 I’m interested in **software and game development**
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **Java and Python**
 - 💞️ I’m looking to collaborate on anything really&mdash;always open to learning and growing as a computer science student
 - 😄 Pronouns: **he/him**
 ### Let's connect:
